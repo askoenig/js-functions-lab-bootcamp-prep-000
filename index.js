@@ -4,8 +4,6 @@ function happyHolidays(string) {
   return "Happy holidays!"
 }
 
-name === Andrew;
-
 function happyHolidaysTo(name) {
   return `Happy Holidays, ${name}!`
 }
